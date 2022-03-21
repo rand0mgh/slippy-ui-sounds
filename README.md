@@ -1,5 +1,6 @@
 # Slippy UI Sounds
 ![Icon](https://github.com/rand0mgh/slippy-ui-sounds/blob/main/resource.uisounds.slippy/icon.png?raw=true)
+(may not be visible on light mode)
 
 Custom GUI sounds for Kodi using the sounds for Boxee, which is now dead and shutdown.  
 (Formerly known as Boxer during development)  
