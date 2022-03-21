@@ -68,18 +68,18 @@
     </action>
     <action>
       <name>error</name>
-      <file>notify</file>
+      <file>notify.wav</file>
     </action>
   </actions>
 
   <windows>
     <window>
       <name>notification</name>
-      <activate>notify</activate>
-      <deactivate>out</deactivate>
+      <activate>notify.wav</activate>
+      <deactivate>out.wav</deactivate>
     </window>
     <window>
-      <name>startup</name>
+      <name>startup.wav</name>
       <activate></activate>
     </window>
   </windows>
