@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.slippy" version="1.0.1" name="Slippy UI sounds" provider-name="glitch">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">UI sounds previously used on Boxee (now defunct)</summary>
+    <description lang="en">UI sounds previously used on the now defunct Boxee software and hardware, formerly known as Boxer before being known as Slippy.</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
