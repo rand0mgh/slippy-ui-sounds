@@ -1,7 +1,7 @@
-# Slippy UI Sounds
+# Slippy and Steampunk UI Sounds
 ![Icon](https://github.com/rand0mgh/slippy-ui-sounds/blob/main/resource.uisounds.slippy/icon.png?raw=true)
 
-Custom GUI sounds for Kodi using the sounds for Boxee, which is now dead and shutdown.  
+Custom GUI sounds for Kodi using the sounds for Boxee, which is now dead and shutdown. (and Big Picture, which isn't dead.)  
 (Formerly known as Boxer during development)  
 
 [Video Demo on Peertube](https://diode.zone/w/5iys5FaQ8XRXMJAy2idZ8x)
