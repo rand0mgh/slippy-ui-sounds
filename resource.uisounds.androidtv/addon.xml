@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.steampunk" version="1.0.0" name="Slippy Steampunk sounds" provider-name="glitch">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Slippy Steampunk sounds</summary>
+    <description lang="en">GUI sounds from the Big Picture GUI.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
