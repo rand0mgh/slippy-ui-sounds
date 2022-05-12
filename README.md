@@ -1,5 +1,5 @@
 # Slippy and Steampunk UI Sounds
-![Icon](https://github.com/rand0mgh/slippy-ui-sounds/blob/main/resource.uisounds.slippy/icon.png?raw=true)
+![Icon](https://github.com/rand0mgh/slippy-ui-sounds/blob/main/resource.uisounds.slippy/icon.png?raw=true) ![Icon for Steampunk](https://github.com/rand0mgh/slippy-ui-sounds/blob/main/resource.uisounds.steampunk/icon.png?raw=true)
 
 Custom GUI sounds for Kodi using the sounds for Boxee, which is now dead and shutdown. (and Big Picture, which isn't dead.)  
 (Formerly known as Boxer during development)  
